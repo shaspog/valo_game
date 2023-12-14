@@ -14,7 +14,6 @@
     {"name":"t_walls47_32x32","order":1,"path":"tilesets/t_walls47_32x32/t_walls47_32x32.yy",},
     {"name":"s_arrow","order":8,"path":"sprites/s_arrow/s_arrow.yy",},
     {"name":"o_die","order":16,"path":"objects/o_die/o_die.yy",},
-    {"name":"Script5","order":5,"path":"scripts/Script5/Script5.yy",},
     {"name":"o_bow","order":7,"path":"objects/o_bow/o_bow.yy",},
     {"name":"s_arrow_explode","order":10,"path":"sprites/s_arrow_explode/s_arrow_explode.yy",},
     {"name":"o_enemy","order":5,"path":"objects/o_enemy/o_enemy.yy",},
